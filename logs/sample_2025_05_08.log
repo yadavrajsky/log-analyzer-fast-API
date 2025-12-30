@@ -1,0 +1,10 @@
+2025-05-08 09:15:00	INFO	UserAuth	User 'bob.wilson' logged in successfully.
+2025-05-08 09:15:30	INFO	UserAuth	User 'carol.white' logged in successfully.
+2025-05-08 09:16:00	WARNING	API	High latency detected: 2500ms response time.
+2025-05-08 09:16:30	ERROR	Payment	Insufficient funds for transaction.
+2025-05-08 09:17:00	INFO	UserAuth	User 'david.brown' logged out.
+2025-05-08 09:17:30	DEBUG	Database	Executing maintenance query.
+2025-05-08 09:18:00	WARNING	GeoIP	GeoIP lookup failed for IP '10.0.0.1'.
+2025-05-08 09:18:30	ERROR	API	Database connection refused.
+2025-05-08 09:19:00	INFO	Payment	Refund processed for transaction #67890.
+2025-05-08 09:19:30	CRITICAL	Database	Database replication lag detected.

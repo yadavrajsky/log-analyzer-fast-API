@@ -1,0 +1,10 @@
+2025-05-07 10:00:00	INFO	UserAuth	User 'john.doe' logged in successfully.
+2025-05-07 10:00:15	WARNING	GeoIP	Could not resolve IP address '192.168.1.100'.
+2025-05-07 10:00:20	ERROR	Payment	Transaction failed for user 'jane.doe'.
+2025-05-07 10:00:25	INFO	UserAuth	User 'alice.smith' logged out.
+2025-05-07 10:00:30	DEBUG	Database	Query executed in 45ms.
+2025-05-07 10:00:35	WARNING	Cache	Cache miss for key 'user_sessions'.
+2025-05-07 10:00:40	ERROR	API	Request timeout from external service.
+2025-05-07 10:00:45	INFO	Payment	Payment processed successfully for order #12345.
+2025-05-07 10:00:50	DEBUG	Cache	Cache invalidated for user 'john.doe'.
+2025-05-07 10:00:55	CRITICAL	Database	Connection pool exhausted.
